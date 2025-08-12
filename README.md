@@ -1384,3 +1384,6 @@ void showOverlayMenu({
 
 ```
 
+## LICENSE
+
+**MIT © Mahmoud Nagy**
