@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:overlay/commons.dart';
-import 'package:overlay/overlays_demos/overlay_demo_1.dart';
+import 'package:overlay/overlays_demos/overlay_demo_basic.dart';
 import 'package:overlay/overlays_demos/overlay_dropdown_button.dart';
 import 'package:overlay/overlays_demos/overlay_with_builder.dart';
 import 'package:provider/provider.dart';
