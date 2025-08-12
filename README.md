@@ -31,7 +31,7 @@ lib/
 │   ├── main_widget.dart             # Main Widget in the demo
 │   ├── overlay_demo_basic.dart      # Contains all the basic overlays (1:6)
 │   ├── overlay_dropdown_button.dart # Contains the custom DropDownButton
-│   └── overlay_with_builder.dart
+│   └── overlay_with_builder.dart    # Use showMenu mathod to attach the Dialog to its Parent
 └── commons.dart                     # Common utilities and helpers
 ```
 ## Demo Examples
